@@ -42,7 +42,8 @@
         "modelscope@nndeploy/nndeploy:qwen/Qwen3-0.6B/mnn/config.json",
         "modelscope@nndeploy/nndeploy:qwen/Qwen3-0.6B/mnn/llm_config.json",
         "modelscope@nndeploy/nndeploy:qwen/Qwen3-0.6B/mnn/tokenizer.txt",
-        "modelscope@nndeploy/nndeploy:qwen/Qwen3-0.6B/tokenizer.json"
+        "modelscope@nndeploy/nndeploy:qwen/Qwen3-0.6B/tokenizer.json",
+        "modelscope@nndeploy/nndeploy:qwen/Qwen2-0.5B-Instruct/tokenizer.json"
     ],
     "other_url_": [
         "template[http,modelscope]@https://template.cn/template.txt"
@@ -138,7 +139,7 @@
                         "dropdown_params_": {},
                         "is_path_": true,
                         "tokenizer_type_": "kTokenizerTypeHF",
-                        "json_blob_": "resources/models/qwen/Qwen3-0.6B/tokenizer.json",
+                        "json_blob_": "resources/models/qwen/Qwen2-0.5B-Instruct/tokenizer.json",
                         "model_blob_": "",
                         "vocab_blob_": "",
                         "merges_blob_": "",
@@ -554,7 +555,7 @@
                         "dropdown_params_": {},
                         "is_path_": true,
                         "tokenizer_type_": "kTokenizerTypeHF",
-                        "json_blob_": "resources/models/qwen/Qwen3-0.6B/tokenizer.json",
+                        "json_blob_": "resources/models/qwen/Qwen2-0.5B-Instruct/tokenizer.json",
                         "model_blob_": "",
                         "vocab_blob_": "",
                         "merges_blob_": "",
